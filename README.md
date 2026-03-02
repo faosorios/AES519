@@ -6,3 +6,5 @@ Este repositorio contiene el material del curso **AES-519: Bioestadistica** (Uni
 ## Material de clases
 
 Las **diapositivas** para el 1er semestre de 2026 se encuentran disponibles a continuación.
+
+- Sesion 1: Introducción [[slides]](diapositivas/AES519_slides-01.pdf)
