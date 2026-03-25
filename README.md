@@ -12,3 +12,4 @@ Las **diapositivas** para el 1er semestre de 2026 se encuentran disponibles a co
 - Sesion 03: Preliminares [[slides]](diapositivas/AES519_slides-03.pdf)
 - Sesion 04: Tablas de frecuencias [[slides]](diapositivas/AES519_slides-04.pdf)
 - Sesion 05: Graficos [[slides]](diapositivas/AES519_slides-05.pdf)
+- Sesion 06: Estadisticas de resumen [[slides]](diapositivas/AES519_slides-06.pdf)
