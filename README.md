@@ -13,3 +13,5 @@ Las **diapositivas** para el 1er semestre de 2026 se encuentran disponibles a co
 - Sesion 04: Tablas de frecuencias [[slides]](diapositivas/AES519_slides-04.pdf)
 - Sesion 05: Graficos [[slides]](diapositivas/AES519_slides-05.pdf)
 - Sesion 06: Estadisticas de resumen [[slides]](diapositivas/AES519_slides-06.pdf)
+- Sesion 07: Estadisticas de resumen para datos tabulados [[slides]](diapositivas/AES519_slides-07.pdf)
+- Sesion 08: Covarianza y correlacion [[slides]](diapositivas/AES519_slides-08.pdf)
